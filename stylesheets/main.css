@@ -7,7 +7,7 @@
     margin-top: 10%;
 }*/
 body{
-    margin: 100%;
+    margin: auto;
 }
 
 a:hover{
@@ -43,6 +43,14 @@ a:hover{
     margin-right: 10%;
 }
 
+.ppc{
+    margin-right: 15%;
+}
+
+.pfc{
+    margin-right: 15%;
+}
+
 .card-group{
     margin-left: 15%;
 }
@@ -59,7 +67,7 @@ hr.new1{
 
 .footer{
     margin-top: 3%;
-    background-color: maroon;
+    background-color: #A22148;
     color: white;
     padding-top: 5px;
     padding-bottom: 5%;
@@ -72,13 +80,5 @@ hr.new1{
         border-color: rgb(210, 176, 135);
         margin: 0;
         padding: 0;
-    }
-
-    .ppc{
-        
-    }
-
-    .card{
-        max-width: fit-content;
     }
 }
