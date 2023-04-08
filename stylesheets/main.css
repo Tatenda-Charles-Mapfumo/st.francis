@@ -81,4 +81,7 @@ hr.new1{
         margin: 0;
         padding: 0;
     }
+    
+    .col{
+        max-width: 300px;
 }
