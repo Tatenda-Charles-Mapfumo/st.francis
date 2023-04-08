@@ -1,0 +1,54 @@
+
+/*.myheading{
+    border-top: solid;
+    border-bottom: solid;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 10%;
+}*/
+body{
+    margin: auto;
+}
+
+a:hover{
+    background-color: rgba(238, 199, 151, 0.932);
+}
+
+.navbar-nav {
+    margin-left: auto;
+}
+
+.nav-item{
+    padding-right: 100px;
+}
+
+.mass{
+    margin-top: 2%;
+    margin-bottom: 1%;
+}
+
+.social{
+    text-align: center;
+}
+
+.priest{
+    border-bottom: solid;
+    margin-bottom: 5%;
+    padding-top: 3%;
+    padding-left: 30%;
+    border-color: rgb(232, 204, 170);
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.card{
+    margin-bottom: 5%;
+}
+
+.footer{
+    margin-top: 3%;
+    background-color: maroon;
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 5%;
+}

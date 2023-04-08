@@ -1,0 +1,36 @@
+
+/*.myheading{
+    border-top: solid;
+    border-bottom: solid;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 10%;
+}*/
+
+a:hover{
+    background-color: rgba(238, 199, 151, 0.932);
+}
+
+.navbar-nav {
+    margin-left: auto;
+}
+
+.nav-item{
+    padding-right: 100px;
+}
+
+.mass{
+
+}
+
+.social{
+    text-align: center;
+}
+
+.footer{
+    margin-top: 3%;
+    background-color: maroon;
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 5%;
+}
