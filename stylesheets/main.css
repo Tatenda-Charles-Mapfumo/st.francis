@@ -7,16 +7,18 @@
     margin-top: 10%;
 }*/
 body{
-    margin: auto;
+    margin: 100%;
 }
 
 a:hover{
     background-color: rgba(238, 199, 151, 0.932);
 }
 
+/*
 .navbar-nav {
     margin-left: auto;
 }
+*/
 
 .nav-item{
     padding-right: 100px;
@@ -41,6 +43,16 @@ a:hover{
     margin-right: 10%;
 }
 
+.card-group{
+    margin-left: 15%;
+}
+
+hr.new1{
+    border-top: 3px solid maroon;
+    width: 50%;
+    margin-left: 20%
+}
+
 .card{
     margin-bottom: 5%;
 }
@@ -51,4 +63,22 @@ a:hover{
     color: white;
     padding-top: 5px;
     padding-bottom: 5%;
+}
+
+
+@media screen and (max-width:480px){
+    .priest{
+        border-bottom: solid;
+        border-color: rgb(210, 176, 135);
+        margin: 0;
+        padding: 0;
+    }
+
+    .ppc{
+        
+    }
+
+    .card{
+        max-width: fit-content;
+    }
 }
